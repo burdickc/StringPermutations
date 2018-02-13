@@ -2,7 +2,7 @@
 
 ## Description:
 
-This is a command line utility that given a string as input, will print out all unique permutations of that string.
+This is a command line utility that when provided a string as input, will print out all unique permutations of that string.
 
 ### Build Instructions:
 
